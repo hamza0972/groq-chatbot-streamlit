@@ -27,7 +27,8 @@ It provides a ChatGPT-like experience with conversation memory and a clean UI.
 
 ## 📸 Demo
 
-(Add screenshot here if you want)
+👉 Live App:  
+https://huggingface.co/spaces/hamza0972/groq-streamlit-ai-chatbot
 
 ---
 
@@ -112,5 +113,3 @@ Muhammad Hamza
 ## ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub!
-
-```
